@@ -21,18 +21,24 @@ const Header = () => (
       </div>
       <div className="navbar-menu">
         <div className="navbar-start">
-          <a className="navbar-item" href="#">
+          <Link className="navbar-item" to="/">
             Overview
-          </a>
-          <a className="navbar-item" href="#">
+          </Link>
+          <Link className="navbar-item" to="/my-account/">
             My account
-          </a>
-          <a className="navbar-item" href="#">
+          </Link>
+          <a
+            className="navbar-item"
+            href="https://console.firebase.google.com/u/0/project/messages-app-b795a/overview"
+          >
             <span>Firebase</span>&nbsp;<span className="icon">
               <i className="fas fa-external-link-alt fa-sm" />
             </span>
           </a>
-          <a className="navbar-item" href="#">
+          <a
+            className="navbar-item"
+            href="https://github.com/mgorzanski/messages-app"
+          >
             <span>GitHub</span>&nbsp;<span className="icon">
               <i className="fas fa-external-link-alt fa-sm" />
             </span>

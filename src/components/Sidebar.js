@@ -34,7 +34,7 @@ const Sidebar = () => (
       <Menu>
         <MenuItem>
           <MenuItemLink>
-            <span className="icon">
+            <span className="icon has-text-primary">
               <i className="fas fa-chart-line" />
             </span>&nbsp;&nbsp;<span>Statistics</span>
           </MenuItemLink>
@@ -48,42 +48,42 @@ const Sidebar = () => (
         </MenuItem>
         <MenuItem>
           <MenuItemLink>
-            <span className="icon">
+            <span className="icon has-text-warning">
               <i className="far fa-bell" />
             </span>&nbsp;&nbsp;<span>Notifications</span>
           </MenuItemLink>
         </MenuItem>
         <MenuItem>
           <MenuItemLink>
-            <span className="icon">
+            <span className="icon has-text-grey-lighter">
               <i className="far fa-file-alt" />
             </span>&nbsp;&nbsp;<span>Logs</span>
           </MenuItemLink>
         </MenuItem>
         <MenuItem>
           <MenuItemLink>
-            <span className="icon">
+            <span className="icon has-text-danger">
               <i className="fas fa-cog" />
             </span>&nbsp;&nbsp;<span>Settings</span>
           </MenuItemLink>
         </MenuItem>
         <MenuItem>
           <MenuItemLink>
-            <span className="icon">
+            <span className="icon has-text-link">
               <i className="far fa-list-alt" />
             </span>&nbsp;&nbsp;<span>Threads</span>
           </MenuItemLink>
         </MenuItem>
         <MenuItem>
           <MenuItemLink>
-            <span className="icon">
+            <span className="icon has-text-success">
               <i className="far fa-address-card" />
             </span>&nbsp;&nbsp;<span>Invitations</span>
           </MenuItemLink>
         </MenuItem>
         <MenuItem>
           <MenuItemLink>
-            <span className="icon">
+            <span className="icon has-text-danger">
               <i className="far fa-flag" />
             </span>&nbsp;&nbsp;<span>Reports</span>
           </MenuItemLink>
