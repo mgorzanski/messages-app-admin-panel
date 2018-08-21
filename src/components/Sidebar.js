@@ -7,19 +7,19 @@ const Nav = styled.nav`
 
 const Menu = styled.ul`
   list-style: none;
-  padding: 6px 0 0 0;
+  padding: 10px 0 0 0;
   margin: 0;
 `;
 
 const MenuItem = styled.li`
-  margin: 0 18px 0 18px;
-  padding: 8px 0 8px 0;
+  margin: 0 26px 0 26px;
+  padding: 11px 0 11px 0;
   border-bottom: 1px solid hsl(0, 0%, 29%);
 `;
 
 const MenuItemLink = styled.a`
   color: #fff;
-  font-family: 'Oxygen', sans-serif;
+  font-family: "Oxygen", sans-serif;
   font-size: 1.1rem;
 
   &:hover {
@@ -32,14 +32,62 @@ const Sidebar = () => (
   <div className="sidebar" id="sidebar">
     <Nav className="has-background-dark">
       <Menu>
-        <MenuItem><MenuItemLink>Start</MenuItemLink></MenuItem>
-        <MenuItem><MenuItemLink>Users</MenuItemLink></MenuItem>
-        <MenuItem><MenuItemLink>Notifications</MenuItemLink></MenuItem>
-        <MenuItem><MenuItemLink>Logs</MenuItemLink></MenuItem>
-        <MenuItem><MenuItemLink>Settings</MenuItemLink></MenuItem>
-        <MenuItem><MenuItemLink>Threads</MenuItemLink></MenuItem>
-        <MenuItem><MenuItemLink>Invitations</MenuItemLink></MenuItem>
-        <MenuItem><MenuItemLink>Reports</MenuItemLink></MenuItem>
+        <MenuItem>
+          <MenuItemLink>
+            <span className="icon">
+              <i className="fas fa-chart-line" />
+            </span>&nbsp;&nbsp;<span>Statistics</span>
+          </MenuItemLink>
+        </MenuItem>
+        <MenuItem>
+          <MenuItemLink>
+            <span className="icon">
+              <i className="fas fa-users" />
+            </span>&nbsp;&nbsp;<span>Users</span>
+          </MenuItemLink>
+        </MenuItem>
+        <MenuItem>
+          <MenuItemLink>
+            <span className="icon">
+              <i className="far fa-bell" />
+            </span>&nbsp;&nbsp;<span>Notifications</span>
+          </MenuItemLink>
+        </MenuItem>
+        <MenuItem>
+          <MenuItemLink>
+            <span className="icon">
+              <i className="far fa-file-alt" />
+            </span>&nbsp;&nbsp;<span>Logs</span>
+          </MenuItemLink>
+        </MenuItem>
+        <MenuItem>
+          <MenuItemLink>
+            <span className="icon">
+              <i className="fas fa-cog" />
+            </span>&nbsp;&nbsp;<span>Settings</span>
+          </MenuItemLink>
+        </MenuItem>
+        <MenuItem>
+          <MenuItemLink>
+            <span className="icon">
+              <i className="far fa-list-alt" />
+            </span>&nbsp;&nbsp;<span>Threads</span>
+          </MenuItemLink>
+        </MenuItem>
+        <MenuItem>
+          <MenuItemLink>
+            <span className="icon">
+              <i className="far fa-address-card" />
+            </span>&nbsp;&nbsp;<span>Invitations</span>
+          </MenuItemLink>
+        </MenuItem>
+        <MenuItem>
+          <MenuItemLink>
+            <span className="icon">
+              <i className="far fa-flag" />
+            </span>&nbsp;&nbsp;<span>Reports</span>
+          </MenuItemLink>
+        </MenuItem>
       </Menu>
     </Nav>
   </div>
