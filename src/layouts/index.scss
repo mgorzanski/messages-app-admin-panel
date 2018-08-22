@@ -15,6 +15,11 @@ $fa-font-path: "~@fortawesome/fontawesome-free/webfonts";
   font-family: "Poppins", sans-serif;
 }
 
+.sidebar#sidebar {
+  position: fixed;
+  width: 297px;
+}
+
 .sidebar-nav {
   height: calc(100vh - 52px);
 }

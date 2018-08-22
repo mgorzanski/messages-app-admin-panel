@@ -8,7 +8,9 @@ import "./index.scss";
 
 const Layout = ({ children, data }) => (
   <div id="app">
-    <Helmet title={data.site.siteMetadata.title} />
+    <Helmet title={data.site.siteMetadata.title}>
+      <html class="has-navbar-fixed-top" />
+    </Helmet>
     <Header />
     <main className="main columns" id="main">
       <div className="column is-2">

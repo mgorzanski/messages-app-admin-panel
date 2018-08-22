@@ -115,6 +115,411 @@ const UsersPage = () => (
                   </div>
                 </td>
               </tr>
+              <tr>
+                <td className="users-table-td">1</td>
+                <td className="users-table-td">mateusz</td>
+                <td className="users-table-td">Mateusz Górzański</td>
+                <td>
+                  <div className="field is-grouped is-pulled-right">
+                    <p className="control">
+                      <a className="button is-warning is-outlined">Edit</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-danger is-outlined">Delete</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-info is-outlined">Block</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-danger is-outlined">Downgrade permissions</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-success is-outlined">Reset password</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-outlined">Details</a>
+                    </p>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td className="users-table-td">1</td>
+                <td className="users-table-td">mateusz</td>
+                <td className="users-table-td">Mateusz Górzański</td>
+                <td>
+                  <div className="field is-grouped is-pulled-right">
+                    <p className="control">
+                      <a className="button is-warning is-outlined">Edit</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-danger is-outlined">Delete</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-info is-outlined">Block</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-danger is-outlined">Downgrade permissions</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-success is-outlined">Reset password</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-outlined">Details</a>
+                    </p>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td className="users-table-td">1</td>
+                <td className="users-table-td">mateusz</td>
+                <td className="users-table-td">Mateusz Górzański</td>
+                <td>
+                  <div className="field is-grouped is-pulled-right">
+                    <p className="control">
+                      <a className="button is-warning is-outlined">Edit</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-danger is-outlined">Delete</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-info is-outlined">Block</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-danger is-outlined">Downgrade permissions</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-success is-outlined">Reset password</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-outlined">Details</a>
+                    </p>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td className="users-table-td">1</td>
+                <td className="users-table-td">mateusz</td>
+                <td className="users-table-td">Mateusz Górzański</td>
+                <td>
+                  <div className="field is-grouped is-pulled-right">
+                    <p className="control">
+                      <a className="button is-warning is-outlined">Edit</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-danger is-outlined">Delete</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-info is-outlined">Block</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-danger is-outlined">Downgrade permissions</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-success is-outlined">Reset password</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-outlined">Details</a>
+                    </p>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td className="users-table-td">1</td>
+                <td className="users-table-td">mateusz</td>
+                <td className="users-table-td">Mateusz Górzański</td>
+                <td>
+                  <div className="field is-grouped is-pulled-right">
+                    <p className="control">
+                      <a className="button is-warning is-outlined">Edit</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-danger is-outlined">Delete</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-info is-outlined">Block</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-danger is-outlined">Downgrade permissions</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-success is-outlined">Reset password</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-outlined">Details</a>
+                    </p>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td className="users-table-td">1</td>
+                <td className="users-table-td">mateusz</td>
+                <td className="users-table-td">Mateusz Górzański</td>
+                <td>
+                  <div className="field is-grouped is-pulled-right">
+                    <p className="control">
+                      <a className="button is-warning is-outlined">Edit</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-danger is-outlined">Delete</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-info is-outlined">Block</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-danger is-outlined">Downgrade permissions</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-success is-outlined">Reset password</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-outlined">Details</a>
+                    </p>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td className="users-table-td">1</td>
+                <td className="users-table-td">mateusz</td>
+                <td className="users-table-td">Mateusz Górzański</td>
+                <td>
+                  <div className="field is-grouped is-pulled-right">
+                    <p className="control">
+                      <a className="button is-warning is-outlined">Edit</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-danger is-outlined">Delete</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-info is-outlined">Block</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-danger is-outlined">Downgrade permissions</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-success is-outlined">Reset password</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-outlined">Details</a>
+                    </p>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td className="users-table-td">1</td>
+                <td className="users-table-td">mateusz</td>
+                <td className="users-table-td">Mateusz Górzański</td>
+                <td>
+                  <div className="field is-grouped is-pulled-right">
+                    <p className="control">
+                      <a className="button is-warning is-outlined">Edit</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-danger is-outlined">Delete</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-info is-outlined">Block</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-danger is-outlined">Downgrade permissions</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-success is-outlined">Reset password</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-outlined">Details</a>
+                    </p>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td className="users-table-td">1</td>
+                <td className="users-table-td">mateusz</td>
+                <td className="users-table-td">Mateusz Górzański</td>
+                <td>
+                  <div className="field is-grouped is-pulled-right">
+                    <p className="control">
+                      <a className="button is-warning is-outlined">Edit</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-danger is-outlined">Delete</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-info is-outlined">Block</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-danger is-outlined">Downgrade permissions</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-success is-outlined">Reset password</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-outlined">Details</a>
+                    </p>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td className="users-table-td">1</td>
+                <td className="users-table-td">mateusz</td>
+                <td className="users-table-td">Mateusz Górzański</td>
+                <td>
+                  <div className="field is-grouped is-pulled-right">
+                    <p className="control">
+                      <a className="button is-warning is-outlined">Edit</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-danger is-outlined">Delete</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-info is-outlined">Block</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-danger is-outlined">Downgrade permissions</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-success is-outlined">Reset password</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-outlined">Details</a>
+                    </p>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td className="users-table-td">1</td>
+                <td className="users-table-td">mateusz</td>
+                <td className="users-table-td">Mateusz Górzański</td>
+                <td>
+                  <div className="field is-grouped is-pulled-right">
+                    <p className="control">
+                      <a className="button is-warning is-outlined">Edit</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-danger is-outlined">Delete</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-info is-outlined">Block</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-danger is-outlined">Downgrade permissions</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-success is-outlined">Reset password</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-outlined">Details</a>
+                    </p>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td className="users-table-td">1</td>
+                <td className="users-table-td">mateusz</td>
+                <td className="users-table-td">Mateusz Górzański</td>
+                <td>
+                  <div className="field is-grouped is-pulled-right">
+                    <p className="control">
+                      <a className="button is-warning is-outlined">Edit</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-danger is-outlined">Delete</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-info is-outlined">Block</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-danger is-outlined">Downgrade permissions</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-success is-outlined">Reset password</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-outlined">Details</a>
+                    </p>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td className="users-table-td">1</td>
+                <td className="users-table-td">mateusz</td>
+                <td className="users-table-td">Mateusz Górzański</td>
+                <td>
+                  <div className="field is-grouped is-pulled-right">
+                    <p className="control">
+                      <a className="button is-warning is-outlined">Edit</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-danger is-outlined">Delete</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-info is-outlined">Block</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-danger is-outlined">Downgrade permissions</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-success is-outlined">Reset password</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-outlined">Details</a>
+                    </p>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td className="users-table-td">1</td>
+                <td className="users-table-td">mateusz</td>
+                <td className="users-table-td">Mateusz Górzański</td>
+                <td>
+                  <div className="field is-grouped is-pulled-right">
+                    <p className="control">
+                      <a className="button is-warning is-outlined">Edit</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-danger is-outlined">Delete</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-info is-outlined">Block</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-danger is-outlined">Downgrade permissions</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-success is-outlined">Reset password</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-outlined">Details</a>
+                    </p>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td className="users-table-td">1</td>
+                <td className="users-table-td">mateusz</td>
+                <td className="users-table-td">Mateusz Górzański</td>
+                <td>
+                  <div className="field is-grouped is-pulled-right">
+                    <p className="control">
+                      <a className="button is-warning is-outlined">Edit</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-danger is-outlined">Delete</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-info is-outlined">Block</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-danger is-outlined">Downgrade permissions</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-success is-outlined">Reset password</a>
+                    </p>
+                    <p className="control">
+                      <a className="button is-outlined">Details</a>
+                    </p>
+                  </div>
+                </td>
+              </tr>
             </tbody>
           </table>
         </div>

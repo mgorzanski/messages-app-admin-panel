@@ -4,7 +4,7 @@ import Link from "gatsby-link";
 const Header = () => (
   <header className="header" id="main-navigation">
     <nav
-      className="navbar is-black"
+      className="navbar is-black is-fixed-top"
       role="navigation"
       aria-label="main navigation"
     >
