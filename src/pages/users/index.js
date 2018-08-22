@@ -522,6 +522,17 @@ const UsersPage = () => (
               </tr>
             </tbody>
           </table>
+
+          <nav className="pagination" role="navigation" aria-label="pagination">
+            <ul className="pagination-list">
+              <li>
+                <a className="pagination-link is-current" aria-label="Page 1" aria-current="page">1</a>
+              </li>
+              <li>
+                <a className="pagination-link" aria-label="Goto page 2">2</a>
+              </li>
+            </ul>
+          </nav>
         </div>
       </div>
     </div>
