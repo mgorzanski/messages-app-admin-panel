@@ -7,3 +7,37 @@ $fa-font-path: "~@fortawesome/fontawesome-free/webfonts";
 
 @import url('https://fonts.googleapis.com/css?family=Poppins');
 @import url('https://fonts.googleapis.com/css?family=Oxygen');
+
+.header-title {
+  line-height: 52px;
+  margin-right: 21px;
+  margin-left: 10px;
+  font-family: "Poppins", sans-serif;
+}
+
+.sidebar-nav {
+  height: calc(100vh - 52px);
+}
+
+.sidebar-menu {
+  list-style: none;
+  padding: 10px 0 0 0;
+  margin: 0;
+}
+
+.sidebar-menu-item {
+  margin: 0 26px 0 26px;
+  padding: 11px 0 11px 0;
+  border-bottom: 1px solid hsl(0, 0%, 29%);
+}
+
+.sidebar-menu-item-link {
+  color: #fff;
+  font-family: "Oxygen", sans-serif;
+  font-size: 1.1rem;
+}
+
+.sidebar-menu-item-link:hover {
+  text-decoration: none;
+  color: hsl(0, 0%, 86%);
+}

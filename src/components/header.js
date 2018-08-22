@@ -1,13 +1,5 @@
 import React from "react";
 import Link from "gatsby-link";
-import styled from "styled-components";
-
-const Title = styled.h2`
-  line-height: 52px;
-  margin-right: 21px;
-  margin-left: 10px;
-  font-family: "Poppins", sans-serif;
-`;
 
 const Header = () => (
   <header className="header" id="main-navigation">
@@ -17,7 +9,7 @@ const Header = () => (
       aria-label="main navigation"
     >
       <div className="navbar-brand">
-        <Title className="is-size-4">Messages App</Title>
+        <h2 className="header-title is-size-4">Messages App</h2>
       </div>
       <div className="navbar-menu">
         <div className="navbar-start">
