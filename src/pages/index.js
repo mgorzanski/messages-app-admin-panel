@@ -1,15 +1,16 @@
-import React from 'react'
-import Link from 'gatsby-link'
+import React from "react";
 
 const IndexPage = () => (
   <section className="section">
     <div className="container">
       <div className="level">
         <div className="level-left">
-        <h1 className="title">Statistics</h1>
+          <h1 className="title">Statistics</h1>
         </div>
         <div className="level-right">
-          <span className="icon"><i className="fas fa-sync"></i></span>
+          <span className="icon">
+            <i className="fas fa-sync" />
+          </span>
         </div>
       </div>
 
@@ -92,6 +93,6 @@ const IndexPage = () => (
       </div>
     </div>
   </section>
-)
+);
 
-export default IndexPage
+export default IndexPage;
