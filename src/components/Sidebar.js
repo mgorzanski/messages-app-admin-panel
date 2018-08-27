@@ -41,17 +41,10 @@ const Sidebar = () => (
           </Link>
         </li>
         <li className="sidebar-menu-item">
-          <Link className="sidebar-menu-item-link" to="/threads/">
-            <span className="icon has-text-link">
-              <i className="far fa-list-alt" />
-            </span>&nbsp;&nbsp;<span>Threads</span>
-          </Link>
-        </li>
-        <li className="sidebar-menu-item">
-          <Link className="sidebar-menu-item-link" to="/invitations/">
+          <Link className="sidebar-menu-item-link" to="/backups/">
             <span className="icon has-text-success">
-              <i className="far fa-address-card" />
-            </span>&nbsp;&nbsp;<span>Invitations</span>
+              <i className="fas fa-database" />
+            </span>&nbsp;&nbsp;<span>Backups</span>
           </Link>
         </li>
         <li className="sidebar-menu-item">
