@@ -1,4 +1,4 @@
-import React from 'react'
+import React from "react";
 
 const NotFoundPage = () => (
   <section className="section">
@@ -7,6 +7,6 @@ const NotFoundPage = () => (
       <h2 className="subtitle is-2">Page not found</h2>
     </div>
   </section>
-)
+);
 
-export default NotFoundPage
+export default NotFoundPage;
