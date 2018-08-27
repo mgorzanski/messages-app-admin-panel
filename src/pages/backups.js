@@ -3,7 +3,17 @@ import React from "react";
 const BackupsPage = () => (
   <section className="section">
     <div className="container">
-      <h1 className="title">Backups</h1>
+      <div className="level">
+        <div className="level-left">
+          <h1 className="title">Backups</h1>
+        </div>
+        <div className="level-right">
+          &nbsp;&nbsp;
+          <span className="icon">
+            <i className="fas fa-sync" />
+          </span>
+        </div>
+      </div>
 
       <h3 className="title is-4">27-08-2018</h3>
       <table className="table is-fullwidth">

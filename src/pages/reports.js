@@ -1,11 +1,12 @@
 import React from "react";
+import Link from 'gatsby-link';
 
-const LogsPage = () => (
+const ReportsPage = () => (
   <section className="section">
     <div className="container">
       <div className="level">
         <div className="level-left">
-          <h1 className="title">Logs</h1>
+          <h1 className="title">Reports</h1>
         </div>
         <div className="level-right">
           &nbsp;&nbsp;
@@ -18,18 +19,20 @@ const LogsPage = () => (
       <table className="table is-bordered is-fullwidth">
         <thead>
           <tr>
-            <th><span><a className="has-text-black" href="#">Message</a></span><span className="icon has-text-black"><i className="fas fa-sort-up"></i></span></th>
-            <th><a className="has-text-black" href="#">Date</a></th>
-            <th><a className="has-text-black" href="#">Type</a></th>
-            <th><a className="has-text-black" href="#">Level</a></th>
+            <th>ID</th>
+            <th>From</th>
+            <th>Type</th>
+            <th>Report</th>
+            <th>Date</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td>Sample error message</td>
-            <td>22-08-2018</td>
-            <td>Client</td>
             <td>1</td>
+            <td><Link className="has-text-dark" to="/users/details/3824732984">mateusz</Link></td>
+            <td>Message</td>
+            <td>Test report message</td>
+            <td>27-8-2018</td>
           </tr>
         </tbody>
       </table>
@@ -37,4 +40,4 @@ const LogsPage = () => (
   </section>
 );
 
-export default LogsPage;
+export default ReportsPage;
