@@ -1,5 +1,4 @@
 import React from 'react'
-import Flag from "./../images/143- flag-heart-lgbtq.svg";
 
 const NotFoundPage = () => (
   <section className="section">

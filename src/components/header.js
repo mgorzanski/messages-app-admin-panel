@@ -16,7 +16,7 @@ const Header = () => (
           <Link className="navbar-item" to="/">
             Overview
           </Link>
-          <Link className="navbar-item" to="/my-account/">
+          <Link className="navbar-item" to="/users/details/1244325">
             My account
           </Link>
           <a
